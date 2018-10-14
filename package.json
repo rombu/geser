@@ -1,6 +1,6 @@
 {
   "name": "geser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "setter and getter wrapper",
   "main": "geser.js",
   "scripts": {
