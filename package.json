@@ -8,13 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "null"
+    "url": "https://github.com/rombu/geser.git"
   },
   "keywords": [
-    "setter",
     "getter",
+    "setter",
     "geser"
   ],
-  "author": "alfangur",
-  "license": "ISC"
+  "author": "rombu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rombu/geser/issues"
+  },
+  "homepage": "https://github.com/rombu/geser#readme"
 }
